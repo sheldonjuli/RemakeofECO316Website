@@ -1,4 +1,4 @@
 # RemakeofECO316Website
 Remake of ECO 316 Website
 
-This project was done in summer 2016 and no longer maintained. Uploaded for demonstration only.
+This project was done in summer 2016 and no longer maintained. Uploaded for demonstration only. The commits do not reflect the actual working process.
